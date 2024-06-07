@@ -1,0 +1,54 @@
+/* div{
+    background-color: blueviolet;
+    height: 500px;
+    width: 400px;
+} */
+/* #one{
+    background-color: brown;
+    height: 200px;
+    width: 100px;
+}
+.third{
+    background-color: aqua;
+    height: 200px;
+    width: 100px;
+}
+a[href='http://google.com']{
+    background-color: blueviolet;
+}
+input[type='text']{
+    background-color: beige;
+}
+
+input[href^='http']{
+    background-color: blue;
+} */
+/* a[href$='com']{
+    background-color: brown;
+}
+a[href*='google']{
+    background-color: aquamarine
+}
+*{
+    background-color: rgb(40, 94, 76);
+} */
+/* div p{
+    background-color: chartreuse;
+}
+ol > li {
+    background-color: blueviolet;
+} */
+
+li:nth-of-type(3){
+
+    background-color: darkorange;
+}
+div{
+    height: 150px;
+    width: 100px;
+    background-color: darkblue
+}
+div:hover{
+    background-color: lightpink;
+    border-radius: 60%;
+}
